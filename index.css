@@ -1,0 +1,38 @@
+*
+{
+    font-family:'Times New Roman', Times, serif;
+}
+a
+{
+    text-decoration: none;
+}
+li
+{
+    list-style-type: none;
+}
+.BODY
+{
+    width: 800px;
+    border: 1PX solid rgb(202, 200, 200);
+    margin: 0 auto;
+}
+center
+{
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.person-infor
+{
+    padding-left: 30px;
+}
+.list-pi ul li
+{
+    padding-top: 15px;
+    gap: 30px;
+    font-size: 20px;
+}
+.list-pi
+{
+    background-color: rgb(77, 168, 55);
+    height: 700px;
+}
